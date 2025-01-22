@@ -1,0 +1,8 @@
+desafio-modulo-docker-stackx/
+├── README.md
+├── atv1/
+│   ├── Dockerfile
+│   ├── index.html
+│   └── README.md
+├── atv2/
+│   └── (arquivos da atividade 2)
